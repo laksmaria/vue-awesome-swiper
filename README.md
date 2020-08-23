@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/surmon-china/vue-awesome-swiper)
+
 <p align="center">
   <a href="https://swiperjs.com" target="_blank">
     <img width="60px" src="https://github.surmon.me/images/common/swiper-logo.svg" />
